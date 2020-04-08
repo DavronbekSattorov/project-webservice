@@ -6,7 +6,7 @@ public class Surgeon extends Hospital_Employee {
 		// TODO Auto-generated constructor stub
 	}
 	public void cutting() {
-		System.out.println("I am a surgeon. "+"My name is " + getName()+". I cut.");
+		System.out.println("I am a surgeon. "+"My name is " + getName()+". I do surgery.");
 	}
 
 }

@@ -6,7 +6,7 @@ public class Janitor extends Hospital_Employee {
 		// TODO Auto-generated constructor stub
 	}
 	public void sweep() {
-		System.out.println("I am a janitor. "+"My name is " + getName()+". I sweep.");
+		System.out.println("I am a janitor. "+"My name is " + getName()+". I do cleaning.");
 	}
 
 }
