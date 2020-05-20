@@ -86,5 +86,6 @@ public class FirstJframeProject extends JFrame {
 		btnNewButton_1.setFont(new Font("Dialog", Font.BOLD, 12));
 		btnNewButton_1.setBounds(318, 235, 124, 32);
 		contentPane.add(btnNewButton_1);
+		
 	}
 }
